@@ -1,3 +1,1 @@
 CNN that identifies the US state where a photo was taken. Collected and trained on a dataset with fewer than 200 images for each of the 50 states and reached an accuracy of 40% on the test set, compared to the 2% random baseline.	
-
-Remember to change the file directory when running the code.
